@@ -1,4 +1,5 @@
- [
+{
+  "rajpura": [
     {
       "id": "HR 101",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -11,20 +12,51 @@
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 2",
       "address": "Gagan Chonk, Rajpura",
-      "price": 4000
+      "price": "4000"
     },
     {
       "id": "HR 103",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 3",
       "address": "Tribune Chonk, Rajpura",
-      "price": 7000
+      "price": "7000"
     },
     {
       "id": "HR 104",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 4",
       "address": "Fountain Chonk, Rajpura",
-      "price": 6000
+      "price": "6000"
+    }
+  ],
+  "zirakpur": [
+    {
+      "id": "HR 101",
+      "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Home 1",
+      "address": "Trishla City, Rajpura",
+      "price": "5000"
+    },
+    {
+      "id": "HR 102",
+      "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Home 2",
+      "address": "Gagan Chonk, Rajpura",
+      "price": "4000"
+    },
+    {
+      "id": "HR 103",
+      "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Home 3",
+      "address": "Tribune Chonk, Rajpura",
+      "price": "7000"
+    },
+    {
+      "id": "HR 104",
+      "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "name": "Home 4",
+      "address": "Fountain Chonk, Rajpura",
+      "price": "6000"
     }
   ]
+}
