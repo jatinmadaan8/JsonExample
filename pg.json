@@ -1,5 +1,5 @@
 {
-  "rajpura": {
+  "rajpura": [
     {
       "id": "HR 101",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -28,8 +28,8 @@
       "address": "Fountain Chonk, Rajpura",
       "price": 6000
     }
-  },
-  "patiala": {
+  ],
+  "patiala": [
     {
       "id": "HR 201",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -58,8 +58,8 @@
       "address": "Fountain Chonk, Patiala",
       "price": 6000
     }
-  },
-  "zirakpur": {
+  ],
+  "zirakpur": [
     {
       "id": "HR 301",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -88,8 +88,8 @@
       "address": "Fountain Chonk, Zirakpur",
       "price": 6000
     }
-  },
-  "chandigarh": {
+  ],
+  "chandigarh": [
     {
       "id": "HR 401",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
@@ -118,5 +118,5 @@
       "address": "Fountain Chonk, Chandigarh",
       "price": 6000
     }
-  }
+  ]
 }
