@@ -29,34 +29,34 @@
       "price": "6000"
     }
   ],
-  "zirakpur": [
+  "patiala": [
     {
-      "id": "HR 101",
+      "id": "HR 201",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 1",
-      "address": "Trishla City, Rajpura",
+      "address": "Trishla City, Patiala",
       "price": "5000"
     },
     {
-      "id": "HR 102",
+      "id": "HR 202",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 2",
-      "address": "Gagan Chonk, Rajpura",
+      "address": "Gagan Chonk, Patiala",
       "price": "4000"
     },
     {
-      "id": "HR 103",
+      "id": "HR 203",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 3",
-      "address": "Tribune Chonk, Rajpura",
+      "address": "Tribune Chonk, Patiala",
       "price": "7000"
     },
     {
-      "id": "HR 104",
+      "id": "HR 204",
       "photo": "https://images.pexels.com/photos/106399/pexels-photo-106399.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
       "name": "Home 4",
-      "address": "Fountain Chonk, Rajpura",
+      "address": "Fountain Chonk, Patiala",
       "price": "6000"
     }
   ]
-}
+}  
